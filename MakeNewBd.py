@@ -5,7 +5,7 @@ import time
 print ('Vk Photos geo location')
 
 # Авторизируем сессию с помощью acceess token
-session = vk.Session('b26d051a5f96de880739ecd8231cd14504a11825eb79ccd5d01ac4491b8e23f1d554724dd29044216be6e')
+session = vk.Session('b26d05...6be6e')
 
 # Или с помощью id приложения и данных авторизации пользователя
 # session = vk.AuthSession('app id','login','pass')
